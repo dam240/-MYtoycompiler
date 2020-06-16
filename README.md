@@ -1,6 +1,6 @@
 # -MYtoycompiler
 
-这是一个玩具编译器前端，这个编译器只支持int char 类型, 语句只支持 if else for ,把dc文件转成od文件的中间层代码
+这是一个玩具编译器前端，这个编译器只支持int char 类型, 语句只支持 if else for  运算支持+ -* / , 把dc文件转成od文件的中间层代码
 
 
 
