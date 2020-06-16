@@ -1,0 +1,30 @@
+
+int add(int a,int b){
+
+return a+b;
+}
+
+
+
+void main(){
+
+
+ int aa=2;
+ int bb=9;
+int c;
+c=add(aa,bb);
+
+if(c>=10){
+
+printf(yes);
+
+}else
+{
+
+printf(not);
+}
+
+
+
+
+}
